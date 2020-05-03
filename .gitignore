@@ -146,3 +146,16 @@ pip-selfcheck.json
 .history
 
 # End of https://www.gitignore.io/api/venv,python,jupyternotebooks,visualstudiocode
+
+projeto/pesos/*
+!projeto/pesos/.gitkeep 
+
+projeto/modelos/*
+!projeto/modelos/.gitkeep 
+
+projeto/classificadores/*
+!projeto/classificadores/.gitkeep 
+
+projeto/.ipynb_checkpoints
+
+.DS_Store
